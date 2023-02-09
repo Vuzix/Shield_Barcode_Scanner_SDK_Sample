@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\brody_wood\\Documents\\Shield Sample Apps\\Barcode Scanner SDK Sample\\BarcodeFromImage\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\brody_wood\\Documents\\Shield Sample Apps\\Barcode Scanner SDK Sample\\BarcodeFromImage\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1,4,3,5,2",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "17,235,149,304,74",
+                        "endColumns": "55,67,84,83,73",
+                        "endOffsets": "68,298,229,383,143"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,111,179,264,348",
+                        "endColumns": "55,67,84,83,73",
+                        "endOffsets": "106,174,259,343,417"
+                    }
+                }
+            ]
+        }
+    ]
+}

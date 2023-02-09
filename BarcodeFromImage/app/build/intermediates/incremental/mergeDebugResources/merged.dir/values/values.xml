@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Barcode From Image</string>
+    <string name="no_barcode_in_image">No barcode detected</string>
+    <string name="no_permission">Camera permission is required for this app</string>
+    <string name="only_on_mseries">Barcode SDK only runs on Vuzix M-Series</string>
+    <string name="scan_barcode">Press any button to scan barcode</string>
+</resources>

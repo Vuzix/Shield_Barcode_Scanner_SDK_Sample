@@ -1,0 +1,24 @@
+com/vuzix/sample/barcode_from_image/BarcodeFinder.java
+ com.vuzix.sample.barcode_from_image.BarcodeFinder
+com/vuzix/sample/barcode_from_image/MainActivity.java
+ com.vuzix.sample.barcode_from_image.MainActivity
+ com.vuzix.sample.barcode_from_image.MainActivity$1
+ com.vuzix.sample.barcode_from_image.MainActivity$2
+ com.vuzix.sample.barcode_from_image.MainActivity$3
+ com.vuzix.sample.barcode_from_image.MainActivity$4
+ com.vuzix.sample.barcode_from_image.MainActivity$5
+ com.vuzix.sample.barcode_from_image.MainActivity$5$1
+ com.vuzix.sample.barcode_from_image.MainActivity$6
+ com.vuzix.sample.barcode_from_image.MainActivity$7
+com/vuzix/barcodesdkdemo/MainActivity.java
+ com.vuzix.barcodesdkdemo.MainActivity
+ com.vuzix.barcodesdkdemo.MainActivity$1
+ com.vuzix.barcodesdkdemo.MainActivity$2
+ com.vuzix.barcodesdkdemo.MainActivity$3
+ com.vuzix.barcodesdkdemo.MainActivity$4
+ com.vuzix.barcodesdkdemo.MainActivity$5
+ com.vuzix.barcodesdkdemo.MainActivity$6
+ com.vuzix.barcodesdkdemo.MainActivity$7
+ com.vuzix.barcodesdkdemo.MainActivity$7$1
+com/vuzix/sample/barcode_from_image/BuildConfig.java
+ com.vuzix.sample.barcode_from_image.BuildConfig

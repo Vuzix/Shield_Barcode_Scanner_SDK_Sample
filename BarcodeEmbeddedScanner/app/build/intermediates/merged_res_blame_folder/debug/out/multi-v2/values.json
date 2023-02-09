@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\brody_wood\\Documents\\Shield Sample Apps\\Barcode Scanner SDK Sample\\BarcodeEmbeddedScanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\brody_wood\\Documents\\Shield Sample Apps\\Barcode Scanner SDK Sample\\BarcodeEmbeddedScanner\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "33,35,34,38,37,36",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "1902,2017,1961,2327,2220,2145",
+                        "endColumns": "57,126,54,83,105,73",
+                        "endOffsets": "1955,2139,2011,2406,2321,2214"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,113,240,295,379,485",
+                        "endColumns": "57,126,54,83,105,73",
+                        "endOffsets": "108,235,290,374,480,554"
+                    }
+                }
+            ]
+        }
+    ]
+}

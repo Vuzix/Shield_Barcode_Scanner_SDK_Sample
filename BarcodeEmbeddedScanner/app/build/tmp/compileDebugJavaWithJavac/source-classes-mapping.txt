@@ -1,0 +1,13 @@
+com/vuzix/sample/barcode_scan/PermissionsFragment.java
+ com.vuzix.sample.barcode_scan.PermissionsFragment
+ com.vuzix.sample.barcode_scan.PermissionsFragment$Listener
+com/vuzix/sample/barcode_scan/BuildConfig.java
+ com.vuzix.sample.barcode_scan.BuildConfig
+com/vuzix/sample/barcode_scan/ScanResultImageView.java
+ com.vuzix.sample.barcode_scan.ScanResultImageView
+com/vuzix/sample/barcode_scan/ScanResultFragment.java
+ com.vuzix.sample.barcode_scan.ScanResultFragment
+com/vuzix/sample/barcode_scan/MainActivity.java
+ com.vuzix.sample.barcode_scan.MainActivity
+ com.vuzix.sample.barcode_scan.MainActivity$1
+ com.vuzix.sample.barcode_scan.MainActivity$1OurScannerListener

@@ -1,0 +1,5 @@
+com/vuzix/sample/barcodefromintent/BuildConfig.java
+ com.vuzix.sample.barcodefromintent.BuildConfig
+com/vuzix/sample/barcodefromintent/MainActivity.java
+ com.vuzix.sample.barcodefromintent.MainActivity
+ com.vuzix.sample.barcodefromintent.MainActivity$1

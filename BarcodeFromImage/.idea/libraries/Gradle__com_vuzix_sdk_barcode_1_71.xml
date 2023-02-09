@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.vuzix:sdk-barcode:1.71">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/gradle-1.9/caches/modules-2/files-2.1/com.vuzix/sdk-barcode/1.71/2b6f4e881b60859eea6417e9e37a980ab1fe9803/sdk-barcode-1.71.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/gradle-1.9/caches/modules-2/files-2.1/com.vuzix/sdk-barcode/1.71/412e56e3856cfb00168129f0db874f4eb1fe878d/sdk-barcode-1.71-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

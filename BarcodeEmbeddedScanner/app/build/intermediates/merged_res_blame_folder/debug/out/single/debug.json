@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\brody_wood\\Documents\\Shield Sample Apps\\Barcode Scanner SDK Sample\\BarcodeEmbeddedScanner\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\brody_wood\\Documents\\Shield Sample Apps\\Barcode Scanner SDK Sample\\BarcodeEmbeddedScanner\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\brody_wood\\Documents\\Shield Sample Apps\\Barcode Scanner SDK Sample\\BarcodeEmbeddedScanner\\app\\build\\intermediates\\res\\merged\\debug\\raw_beep.ogg.flat",
+        "source": "C:\\Users\\brody_wood\\Documents\\Shield Sample Apps\\Barcode Scanner SDK Sample\\BarcodeEmbeddedScanner\\app\\src\\main\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "C:\\Users\\brody_wood\\Documents\\Shield Sample Apps\\Barcode Scanner SDK Sample\\BarcodeEmbeddedScanner\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_result.xml.flat",
+        "source": "C:\\Users\\brody_wood\\Documents\\Shield Sample Apps\\Barcode Scanner SDK Sample\\BarcodeEmbeddedScanner\\app\\src\\main\\res\\layout\\fragment_result.xml"
+    }
+]

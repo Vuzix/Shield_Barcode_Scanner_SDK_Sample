@@ -1,0 +1,150 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\brody_wood\Documents\Shield Sample Apps\Barcode Scanner SDK Sample\BarcodesFromIntent\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\brody_wood\Documents\Shield Sample Apps\Barcode Scanner SDK Sample\BarcodesFromIntent\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\brody_wood\Documents\Shield Sample Apps\Barcode Scanner SDK Sample\BarcodesFromIntent\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\brody_wood\Documents\Shield Sample Apps\Barcode Scanner SDK Sample\BarcodesFromIntent\app\src\main\AndroidManifest.xml:2:1-19:12
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\0625a7c247c4b7426d9be57947cd4da8\transformed\constraint-layout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\c3f6037b56a04caa4d6f205be929a07d\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\f5ab3acfd50127b8e7208f038bd75eb9\transformed\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\dc885fa1bb40c1ed927e6bb1524954e0\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\f39820b8d4595cf579958de653a32d59\transformed\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\7b042891d4bc89bb44ce3ebcb9ec6762\transformed\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\44e92e9095e3dc5a7609dd8c49252b6f\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\3d7a15b73ae3cc813f646910c99eeef9\transformed\loader-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\ae1b2579efdb28a93007ea237b94feb3\transformed\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\aa15558354a13ea8eaf95c347dc16192\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\dca4d9c08f9edcfac7eb65d1e558b75c\transformed\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\fa14dd2b49b934c809ad87c56bbcbd02\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\80ead893c6c5125eb5df6d370dd4f5ee\transformed\customview-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\0c9d156ac25256204ade95e4d7b1d5f7\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\b98cf642d4e502bd61883e11e5883aeb\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\f86db2bd14d57a6724387c68cb08634b\transformed\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\a96bc9c15386566eea878a7c3c9866a8\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\26f600379dec63b0c733f0fecd393efe\transformed\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\d32906eba3725027e327a02218260bb3\transformed\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\9145612924ea472fe15680be6d65ece1\transformed\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\2e4c0796f3580a672e010e3c51d2e05b\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\71f3d1371db87e37f828c17a2d5916a9\transformed\print-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\f306737f8fda5496771bce77271d8611\transformed\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\639a8dd170d72dfc6784ff0a8ec86ef4\transformed\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\abc554e069b7d2b8971be0b79de1c9ec\transformed\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\c984f82c427acb323f308a1ba0559cd3\transformed\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\1e4420cb10eef4198d665a0820c3dc84\transformed\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\brody_wood\Documents\Shield Sample Apps\Barcode Scanner SDK Sample\BarcodesFromIntent\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\brody_wood\Documents\Shield Sample Apps\Barcode Scanner SDK Sample\BarcodesFromIntent\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\brody_wood\Documents\Shield Sample Apps\Barcode Scanner SDK Sample\BarcodesFromIntent\app\src\main\AndroidManifest.xml:2:1-19:12
+	package
+		ADDED from C:\Users\brody_wood\Documents\Shield Sample Apps\Barcode Scanner SDK Sample\BarcodesFromIntent\app\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from C:\Users\brody_wood\Documents\Shield Sample Apps\Barcode Scanner SDK Sample\BarcodesFromIntent\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\brody_wood\Documents\Shield Sample Apps\Barcode Scanner SDK Sample\BarcodesFromIntent\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\brody_wood\Documents\Shield Sample Apps\Barcode Scanner SDK Sample\BarcodesFromIntent\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\brody_wood\Documents\Shield Sample Apps\Barcode Scanner SDK Sample\BarcodesFromIntent\app\src\main\AndroidManifest.xml:2:1-19:12
+		INJECTED from C:\Users\brody_wood\Documents\Shield Sample Apps\Barcode Scanner SDK Sample\BarcodesFromIntent\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\brody_wood\Documents\Shield Sample Apps\Barcode Scanner SDK Sample\BarcodesFromIntent\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\brody_wood\Documents\Shield Sample Apps\Barcode Scanner SDK Sample\BarcodesFromIntent\app\src\main\AndroidManifest.xml:2:1-19:12
+		INJECTED from C:\Users\brody_wood\Documents\Shield Sample Apps\Barcode Scanner SDK Sample\BarcodesFromIntent\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\brody_wood\Documents\Shield Sample Apps\Barcode Scanner SDK Sample\BarcodesFromIntent\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\brody_wood\Documents\Shield Sample Apps\Barcode Scanner SDK Sample\BarcodesFromIntent\app\src\main\AndroidManifest.xml:5:5-17:19
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\0625a7c247c4b7426d9be57947cd4da8\transformed\constraint-layout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\0625a7c247c4b7426d9be57947cd4da8\transformed\constraint-layout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\f86db2bd14d57a6724387c68cb08634b\transformed\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\f86db2bd14d57a6724387c68cb08634b\transformed\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\a96bc9c15386566eea878a7c3c9866a8\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\a96bc9c15386566eea878a7c3c9866a8\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\f86db2bd14d57a6724387c68cb08634b\transformed\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\brody_wood\Documents\Shield Sample Apps\Barcode Scanner SDK Sample\BarcodesFromIntent\app\src\main\AndroidManifest.xml:8:9-35
+	android:label
+		ADDED from C:\Users\brody_wood\Documents\Shield Sample Apps\Barcode Scanner SDK Sample\BarcodesFromIntent\app\src\main\AndroidManifest.xml:7:9-41
+	android:allowBackup
+		ADDED from C:\Users\brody_wood\Documents\Shield Sample Apps\Barcode Scanner SDK Sample\BarcodesFromIntent\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\brody_wood\Documents\Shield Sample Apps\Barcode Scanner SDK Sample\BarcodesFromIntent\app\src\main\AndroidManifest.xml:9:9-40
+activity#com.vuzix.sample.barcodefromintent.MainActivity
+ADDED from C:\Users\brody_wood\Documents\Shield Sample Apps\Barcode Scanner SDK Sample\BarcodesFromIntent\app\src\main\AndroidManifest.xml:10:9-16:20
+	android:name
+		ADDED from C:\Users\brody_wood\Documents\Shield Sample Apps\Barcode Scanner SDK Sample\BarcodesFromIntent\app\src\main\AndroidManifest.xml:10:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\brody_wood\Documents\Shield Sample Apps\Barcode Scanner SDK Sample\BarcodesFromIntent\app\src\main\AndroidManifest.xml:11:13-15:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\brody_wood\Documents\Shield Sample Apps\Barcode Scanner SDK Sample\BarcodesFromIntent\app\src\main\AndroidManifest.xml:12:17-69
+	android:name
+		ADDED from C:\Users\brody_wood\Documents\Shield Sample Apps\Barcode Scanner SDK Sample\BarcodesFromIntent\app\src\main\AndroidManifest.xml:12:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\brody_wood\Documents\Shield Sample Apps\Barcode Scanner SDK Sample\BarcodesFromIntent\app\src\main\AndroidManifest.xml:14:17-77
+	android:name
+		ADDED from C:\Users\brody_wood\Documents\Shield Sample Apps\Barcode Scanner SDK Sample\BarcodesFromIntent\app\src\main\AndroidManifest.xml:14:27-74
+uses-sdk
+INJECTED from C:\Users\brody_wood\Documents\Shield Sample Apps\Barcode Scanner SDK Sample\BarcodesFromIntent\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\brody_wood\Documents\Shield Sample Apps\Barcode Scanner SDK Sample\BarcodesFromIntent\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\brody_wood\Documents\Shield Sample Apps\Barcode Scanner SDK Sample\BarcodesFromIntent\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\0625a7c247c4b7426d9be57947cd4da8\transformed\constraint-layout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\0625a7c247c4b7426d9be57947cd4da8\transformed\constraint-layout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\c3f6037b56a04caa4d6f205be929a07d\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\c3f6037b56a04caa4d6f205be929a07d\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\f5ab3acfd50127b8e7208f038bd75eb9\transformed\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\f5ab3acfd50127b8e7208f038bd75eb9\transformed\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\dc885fa1bb40c1ed927e6bb1524954e0\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\dc885fa1bb40c1ed927e6bb1524954e0\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\f39820b8d4595cf579958de653a32d59\transformed\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\f39820b8d4595cf579958de653a32d59\transformed\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\7b042891d4bc89bb44ce3ebcb9ec6762\transformed\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\7b042891d4bc89bb44ce3ebcb9ec6762\transformed\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\44e92e9095e3dc5a7609dd8c49252b6f\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\44e92e9095e3dc5a7609dd8c49252b6f\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\3d7a15b73ae3cc813f646910c99eeef9\transformed\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\3d7a15b73ae3cc813f646910c99eeef9\transformed\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\ae1b2579efdb28a93007ea237b94feb3\transformed\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\ae1b2579efdb28a93007ea237b94feb3\transformed\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\aa15558354a13ea8eaf95c347dc16192\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\aa15558354a13ea8eaf95c347dc16192\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\dca4d9c08f9edcfac7eb65d1e558b75c\transformed\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\dca4d9c08f9edcfac7eb65d1e558b75c\transformed\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\fa14dd2b49b934c809ad87c56bbcbd02\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\fa14dd2b49b934c809ad87c56bbcbd02\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\80ead893c6c5125eb5df6d370dd4f5ee\transformed\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\80ead893c6c5125eb5df6d370dd4f5ee\transformed\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\0c9d156ac25256204ade95e4d7b1d5f7\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\0c9d156ac25256204ade95e4d7b1d5f7\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\b98cf642d4e502bd61883e11e5883aeb\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\b98cf642d4e502bd61883e11e5883aeb\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\f86db2bd14d57a6724387c68cb08634b\transformed\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\f86db2bd14d57a6724387c68cb08634b\transformed\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\a96bc9c15386566eea878a7c3c9866a8\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\a96bc9c15386566eea878a7c3c9866a8\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\26f600379dec63b0c733f0fecd393efe\transformed\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\26f600379dec63b0c733f0fecd393efe\transformed\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\d32906eba3725027e327a02218260bb3\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\d32906eba3725027e327a02218260bb3\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\9145612924ea472fe15680be6d65ece1\transformed\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\9145612924ea472fe15680be6d65ece1\transformed\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\2e4c0796f3580a672e010e3c51d2e05b\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\2e4c0796f3580a672e010e3c51d2e05b\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\71f3d1371db87e37f828c17a2d5916a9\transformed\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\71f3d1371db87e37f828c17a2d5916a9\transformed\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\f306737f8fda5496771bce77271d8611\transformed\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\f306737f8fda5496771bce77271d8611\transformed\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\639a8dd170d72dfc6784ff0a8ec86ef4\transformed\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\639a8dd170d72dfc6784ff0a8ec86ef4\transformed\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\abc554e069b7d2b8971be0b79de1c9ec\transformed\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\abc554e069b7d2b8971be0b79de1c9ec\transformed\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\c984f82c427acb323f308a1ba0559cd3\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\c984f82c427acb323f308a1ba0559cd3\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\1e4420cb10eef4198d665a0820c3dc84\transformed\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\1e4420cb10eef4198d665a0820c3dc84\transformed\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\brody_wood\Documents\Shield Sample Apps\Barcode Scanner SDK Sample\BarcodesFromIntent\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\brody_wood\Documents\Shield Sample Apps\Barcode Scanner SDK Sample\BarcodesFromIntent\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\brody_wood\Documents\Shield Sample Apps\Barcode Scanner SDK Sample\BarcodesFromIntent\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\brody_wood\Documents\Shield Sample Apps\Barcode Scanner SDK Sample\BarcodesFromIntent\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\brody_wood\Documents\Shield Sample Apps\Barcode Scanner SDK Sample\BarcodesFromIntent\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\brody_wood\Documents\Shield Sample Apps\Barcode Scanner SDK Sample\BarcodesFromIntent\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\brody_wood\Documents\Shield Sample Apps\Barcode Scanner SDK Sample\BarcodesFromIntent\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\brody_wood\Documents\Shield Sample Apps\Barcode Scanner SDK Sample\BarcodesFromIntent\app\src\main\AndroidManifest.xml

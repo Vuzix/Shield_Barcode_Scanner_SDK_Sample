@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BarcodeFromIntent</string>
+    <string name="scan_to_fill">Scan to Fill</string>
+    <string name="fill_in_from_barcode">Fill-in From Barcode</string>
+    <string name="scan_now">Scan Now</string>
+    <string name="only_on_mseries">Barcode SDK only runs on Vuzix M-Series</string>
+</resources>

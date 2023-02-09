@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\brody_wood\\Documents\\Shield Sample Apps\\Barcode Scanner SDK Sample\\BarcodesFromIntent\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\brody_wood\\Documents\\Shield Sample Apps\\Barcode Scanner SDK Sample\\BarcodesFromIntent\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\brody_wood\\Documents\\Shield Sample Apps\\Barcode Scanner SDK Sample\\BarcodesFromIntent\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_button.xml.flat",
+        "source": "C:\\Users\\brody_wood\\Documents\\Shield Sample Apps\\Barcode Scanner SDK Sample\\BarcodesFromIntent\\app\\src\\main\\res\\drawable\\custom_button.xml"
+    }
+]

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    tools:context="com.vuzix.sample.barcodefromintent.MainActivity">
+
+    <Button
+        android:background="@drawable/custom_button"
+        android:id="@+id/btn_scan_barcode"
+        android:layout_width="181dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="380dp"
+        android:layout_marginStart="79dp"
+        android:layout_marginTop="52dp"
+        android:text="@string/fill_in_from_barcode"
+        android:textColor="@android:color/background_light"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/scannedTextResult" />
+
+    <EditText
+        android:backgroundTint="@android:color/background_light"
+        android:id="@+id/scannedTextResult"
+        android:layout_width="483dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="79dp"
+        android:layout_marginTop="105dp"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:ems="10"
+        android:hint="@string/scan_to_fill"
+        android:textColorHint="@android:color/background_light"
+        android:inputType="text"
+        android:textColor="@android:color/background_light"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</android.support.constraint.ConstraintLayout>
